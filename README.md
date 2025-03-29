@@ -1,5 +1,5 @@
-#BudgetWise - Smart Budget Allocation
-Tech Stack:
+# BudgetWise - Smart Budget Allocation
+`` Tech Stack: ``
 
 Frontend: HTML, CSS, JavaScript
 
